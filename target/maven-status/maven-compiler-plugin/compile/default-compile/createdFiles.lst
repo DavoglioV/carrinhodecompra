@@ -1,0 +1,17 @@
+br\com\carrinhodecompra\model\ProdutoEntity.class
+br\com\carrinhodecompra\repository\ProdutoRepository.class
+br\com\carrinhodecompra\web\response\ItemResponse.class
+br\com\carrinhodecompra\model\ItemEntity.class
+br\com\carrinhodecompra\web\request\ItemRequest.class
+br\com\carrinhodecompra\web\request\ProdutoRequest.class
+br\com\carrinhodecompra\exception\ApplicationException.class
+br\com\carrinhodecompra\service\CarrinhoService.class
+br\com\carrinhodecompra\helper\ErrorEnum.class
+br\com\carrinhodecompra\web\response\ProdutoResponse.class
+br\com\carrinhodecompra\model\CarrinhoEntity.class
+br\com\carrinhodecompra\CarrinhoDeCompraApplication.class
+br\com\carrinhodecompra\web\response\GenericResponse.class
+br\com\carrinhodecompra\controller\CarrinhoController.class
+br\com\carrinhodecompra\service\ProdutoService.class
+br\com\carrinhodecompra\web\response\CarrinhoResponse.class
+br\com\carrinhodecompra\controller\ProdutoController.class
