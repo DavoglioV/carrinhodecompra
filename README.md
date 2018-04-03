@@ -1,6 +1,13 @@
 # carrinhodecompra
 API para Carrinho de compras na linguagem java usando Stack Spring. 
-A API foi desenvolvida para poder ser acssada de qualquer outra aplciação externa
+A API foi desenvolvida para poder ser acssada de qualquer outra aplciação externa.
+
+Arquivos cadastrados: 
+1  Mouse            R$ 15
+2  Teclado          R$ 47.8
+3  Monitor          R$250
+4  Filtro de Linha  R$ 145.2
+5  Mouse Wireless   R$ 47.9
 
 A aplicação encontra-se no servidor Heroku no seguinte link:
 https://carrinhodecompra.herokuapp.com
